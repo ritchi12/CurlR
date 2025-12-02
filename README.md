@@ -88,6 +88,7 @@ Shot-level dataset
 Contains information such as:
 
 <div style="max-height: 350px; overflow-y: auto;">
+  
 | Field | Description |
 |-------|-------------|
 | ID | Tournament identifier, a combination of the abbreviation of the tournament and the year |
@@ -126,6 +127,7 @@ Contains information such as:
 | {Red,Yellow}\_{4,8,12}FT | Number of stones of that colour in the 4-ft, 8-ft, or 12-ft ring |
 | {Red,Yellow}\_W{1,...,10} | Number of stones in the playing zone by weight class (see zone definitions) |
 | {Red,Yellow}\_G{L,C,R} | Number of stones in the playing zone by guard side (Left, Center, Right) |
+
 </div>
 
 📄 License
