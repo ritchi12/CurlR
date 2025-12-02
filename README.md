@@ -1,7 +1,7 @@
 # CurlR
 
 **CurlR** provides two datasets containing game-level and shot-level data from the Olympic Winter Games and World Mixed Doubles Curling Championships between 2016 and 2025.  
-The data were extracted from publicly available Results Books on *curlit.com/results* using text scraping and image processing.
+The data were extracted from publicly available Results Books on [CurlIt](https://curlit.com/results) using text scraping and image processing.
 
 ---
 
