@@ -41,6 +41,8 @@ data("mxd_games")
 data("mxd_shots")
 ```
 
+---
+
 ## 📊 Data Overview
 
 ###  Game-level dataset
@@ -133,9 +135,13 @@ Contains information such as:
 
 </div>
 
+---
+
 ## 📄 License
 This project is released under the CC0 1.0 Universal (CC0) Public Domain Dedication.
 You may copy, modify, distribute, and use the work — including for commercial purposes — without permission.
+
+---
 
 ## ⚠️ Data Source & Disclaimer
 Data were extracted from publicly available Results Books on [CurlIt](https://curlit.com/results).
@@ -143,6 +149,8 @@ Data were extracted from publicly available Results Books on [CurlIt](https://cu
 Extraction involved text scraping and image processing. While care was taken to ensure accuracy, errors or omissions may exist.
 
 Users are encouraged to verify critical data before using it for publications or decisions.
+
+---
 
 ## 🔧 Contributing
 Contributions are welcome!
@@ -160,6 +168,8 @@ Please make sure:
 - New functions include documentation and export settings
 
 - Open an issue or submit a pull request to contribute.
+
+---
 
 ## 📫 Contact
 For questions, suggestions, or issues, please open an Issue on the GitHub repository.
