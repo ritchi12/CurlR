@@ -46,6 +46,8 @@ data("mxd_shots")
 
 ###  Game-level dataset
 
+The game- and shot-level dataset column descriptions are provided below. For compactness, we use {} notation to describe similar columns. For example, the column **T{1,2}{F,M}{Draws,TO,TotalGame}{Clock,Counter}Num** encodes team (1 or 2), gender (female or male), shot type (draws, take-outs (TO), or game totals), and rotation (clockwise or counter-clockwise). A specific selection such as T1FTOCounterNum would represent the number of counter-clockwise take-outs attempted by the female player on Team 1 during the full match.
+
 Contains information such as:
 
 <div style="max-height: 350px; overflow-y: auto;">
