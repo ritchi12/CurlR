@@ -175,6 +175,6 @@ Please make sure:
 For questions, suggestions, or issues, please open an Issue on the GitHub repository.
 
 ## 🧾 Acknowledgments
-Data sources: curlit.com
+Data sources: [CurlIt](https://curlit.com/results)
 
 Created and maintained by the repository author and contributors
