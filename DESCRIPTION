@@ -1,0 +1,9 @@
+Package: CurlR
+Type: Package
+Title: Data Package for Mixed Doubles Curling
+Version: 0.1.0
+Authors@R: person("Robyn", "Ritchie", email = "robyn.ritchie@sfu.ca", role = c("aut", "cre"))
+Description: Data package containing game- and shot-level datasets for Mixed Doubles curling events.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
