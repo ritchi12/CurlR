@@ -41,8 +41,10 @@ data("mxd_games")
 data("mxd_shots")
 ```
 
-📊 Data Overview
-Game-level dataset
+## 📊 Data Overview
+
+###  Game-level dataset
+
 Contains information such as:
 
 <div style="max-height: 350px; overflow-y: auto;">
@@ -84,7 +86,8 @@ Contains information such as:
 </div>
 
 
-Shot-level dataset
+### Shot-level dataset
+
 Contains information such as:
 
 <div style="max-height: 350px; overflow-y: auto;">
@@ -130,44 +133,38 @@ Contains information such as:
 
 </div>
 
-📄 License
+## 📄 License
 This project is released under the CC0 1.0 Universal (CC0) Public Domain Dedication.
 You may copy, modify, distribute, and use the work — including for commercial purposes — without permission.
 
-⚠️ Data Source & Disclaimer
-Data were extracted from publicly available Results Books on curlit.com.
+## ⚠️ Data Source & Disclaimer
+Data were extracted from publicly available Results Books on [CurlIt](https://curlit.com/results).
 
 Extraction involved text scraping and image processing. While care was taken to ensure accuracy, errors or omissions may exist.
 
 Users are encouraged to verify critical data before using it for publications or decisions.
 
-🔧 Contributing
+## 🔧 Contributing
 Contributions are welcome!
 
 You can help by:
 
-Adding more tournaments or years
+- Writing new helper functions
 
-Improving data extraction or cleaning
-
-Writing new helper functions
-
-Reporting errors or inconsistencies
+- Reporting errors or inconsistencies
 
 Please make sure:
 
-Changes follow the existing style
+- Changes follow the existing style
 
-Any new data is documented
+- New functions include documentation and export settings
 
-New functions include documentation and export settings
+- Open an issue or submit a pull request to contribute.
 
-Open an issue or submit a pull request to contribute.
-
-📫 Contact
+## 📫 Contact
 For questions, suggestions, or issues, please open an Issue on the GitHub repository.
 
-🧾 Acknowledgments
+## 🧾 Acknowledgments
 Data sources: curlit.com
 
 Created and maintained by the repository author and contributors
