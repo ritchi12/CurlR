@@ -9,7 +9,7 @@
 Data package for Mixed Doubles Curling.
 }
 \author{
-\strong{Maintainer}: Robyn Ritchie \email{your@email.com}
+\strong{Maintainer}: Robyn Ritchie \email{robyn.ritchie@sfu.ca}
 
 }
 \keyword{internal}

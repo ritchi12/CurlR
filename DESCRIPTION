@@ -7,3 +7,4 @@ Description: Data package containing game- and shot-level datasets for Mixed Dou
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.3.3
