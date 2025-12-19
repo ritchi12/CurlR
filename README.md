@@ -4,6 +4,12 @@
 
 ---
 
+## 📄 Opening the House: Datasets for Mixed Doubles Curling
+
+https://doi.org/10.48550/arXiv.2512.16574
+
+---
+
 ## 📦 Contents
 
 - **data/**  
